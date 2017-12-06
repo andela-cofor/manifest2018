@@ -16,7 +16,7 @@ class App extends Component {
               <div class="carousel-inner">
 
                   <div class="item active">
-                      <img className="demo1" style={{ height: '10000px !important', width: '100000px' }} src="https://scontent.flos2-1.fna.fbcdn.net/v/t1.0-9/23621364_10214745539535589_2576423523554200937_n.jpg?_nc_eui2=v1%3AAeGVRgQROAVWic0Zc8z3KqLUnDRhzn_DTPqNFnVRWtNbf1IVERb0t_V7J7bd6g5wiY4u53PO3ylT03zk6RGs_hi34lFYH7fU9VAcJhix7NLtvg&oh=657d38c12eae6361815cff01bc88cdaf&oe=5AA4A54F" alt="Los Angeles" />
+                      <img className="demo1" style={{ height: '10000px !important', width: '100000px' }} src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/24301470_10214904861398536_1034968027078663408_n.jpg?_nc_eui2=v1%3AAeFlssTrY-iu2APclcCTtEf6RdOpe2nPNIHSWI_yp8S-M2Jj48iWrFzCCgPMzHfSDSih1OZ_j3v4AmBOYe-wkRQdXdlqhNK8-HTrpnLzmMdovg&oh=be42a086fac35afb0739214177f550f8&oe=5A8F3BEA" alt="Los Angeles" />
                       <div class="carousel-caption">
                           {/*<h3>Los Angeles</h3>*/}
                           {/*<p>LA is always so much fun!</p>*/}
